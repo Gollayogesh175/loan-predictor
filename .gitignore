@@ -1,0 +1,29 @@
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary / cache
+.ipython/
+.jupyter/
+.python_history
+
+# Large unnecessary
+*.dll
+*.exe
+*.lock
